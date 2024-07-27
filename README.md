@@ -1,4 +1,4 @@
-# Retirement_Portfolio_Analysis
+# Portfolio_Analysis
 
 This program aims to offer perspectives and select the best performing portfolio to include in the client's retirement investment fund, considering various factors including the daily returns, standard deviations, Sharpe ratios, variance, covariance, and betas. 
 
